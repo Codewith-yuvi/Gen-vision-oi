@@ -6,3 +6,4 @@ requests
 streamlit-lottie
 SpeechRecognition
 PyAudio
+PyAudio‑0.2.11‑cp311‑cp311‑win_amd64.whl
