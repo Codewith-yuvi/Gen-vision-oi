@@ -1,6 +1,6 @@
 from dotenv import load_dotenv 
 load_dotenv()
-
+import pyaudio
 import json
 import requests
 import streamlit as st
