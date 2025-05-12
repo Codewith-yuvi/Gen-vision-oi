@@ -4,3 +4,4 @@ python-dotenv
 pypi-json
 requests
 streamlit-lottie
+SpeechRecognition
