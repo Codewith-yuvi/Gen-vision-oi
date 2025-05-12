@@ -5,5 +5,4 @@ pypi-json
 requests
 streamlit_lottie
 SpeechRecognition
-standard-aifc
 pyaudio
