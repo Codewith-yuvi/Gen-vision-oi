@@ -5,4 +5,3 @@ pypi-json
 requests
 streamlit-lottie
 SpeechRecognition
-PyAudio
