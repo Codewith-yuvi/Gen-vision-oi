@@ -3,3 +3,7 @@ google-generativeai
 python-dotenv
 pypi-json
 requests
+streamlit_lottie
+SpeechRecognition
+standard-aifc
+pyaudio
